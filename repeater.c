@@ -8,7 +8,7 @@ int main() {
     //fill some condition into the following while loop
     //only ONE line code is you need
     //please refer page 4 of homework request
-    while (scanf("%d", &guess)) {
+    while (scanf("%d", &input)) {
         printf("%d\n", input);
     }
 }
