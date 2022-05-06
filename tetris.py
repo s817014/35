@@ -335,7 +335,7 @@ class Tetris(object):
         # Draw the screen buffer
         pygame.display.flip()
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     Tetris(20,35).run()
 
 #Special add to try pull requests
